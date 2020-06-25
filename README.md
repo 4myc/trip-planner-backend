@@ -4,7 +4,7 @@ Trip Planner is a solution to make planning trips easier. The dynamic single-pag
 
 
 ## INSTALLATION  
-Clone the front-end repository, located at https://github.com/4myc/trip-planner-frontend  
+Clone the front-end repository, located at https://github.com/4myc/trip-planner-client  
 In the terminal, save the cloned repository to a local folder by running:   
 ```
 git clone <github_repo_url>    
