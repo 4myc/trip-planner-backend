@@ -2,14 +2,16 @@
 
 Trip Planner is a solution to make planning trips easier. The dynamic single-page app allows a user to create trips and add a packing list and itinerary to each trip. The user can also view a list of trips, edit trip information and packing list items, and delete trips.    
 
+TECHNOLOGIES: Rails, PostgreSQL  
+
 
 ## INSTALLATION  
-Clone the front-end repository, located at https://github.com/4myc/trip-planner-client  
+Fork and clone the front-end repository, located at https://github.com/4myc/trip-planner-client  
 In the terminal, save the cloned repository to a local folder by running:   
 ```
 git clone <github_repo_url>    
 ```
-Clone the back-end repository, located here.  
+Fork and clone the back-end repository, located here.  
 In the terminal, save the cloned repository to a local folder by running:   
 ```
 git clone <github_repo_url>  
