@@ -18,12 +18,12 @@ BACK-END: Rails, PostgreSQL
 1. Fork and clone the front-end (client) repository, located at https://github.com/4myc/trip-planner-client  
 2. In the terminal, save the cloned repository to a local folder by running:   
 ```
-git clone https://github.com/<github_username>/trip-planner-client  
+git clone <repo_url>
 ```
 3. Fork and clone the back-end (server) repository, located here.
 4. In the terminal, save the cloned repository to a local folder by running:    
 ```
-git clone https://github.com/<github_username>/trip-planner-server
+git clone <repo_url>
 ```
 
 ## Usage 
