@@ -11,24 +11,24 @@ User can view packing list items and itinerary stops associated with a trip
 
 ## Technologies  
 
-FRONT-END: React.js, Semantic UI  
-BACK-END: Rails, PostgreSQL  
+FRONT END: React.js, Semantic UI  
+BACK END: Rails, PostgreSQL  
 
 ## Installation 
-1. Fork and clone the front-end (client) repository, located at https://github.com/4myc/trip-planner-client  
+1. Fork and clone the front end (client) repository, located at https://github.com/4myc/trip-planner-client  
 2. In the terminal, save the cloned repository to a local folder by running:   
 ```
 git clone <repo_url>
 ```
-3. Fork and clone the back-end (server) repository, located here.
+3. Fork and clone the back end (server) repository, located here.
 4. In the terminal, save the cloned repository to a local folder by running:    
 ```
 git clone <repo_url>
 ```
 
 ## Usage 
-1. Open the front-end and back-end folders in separate terminal windows.
-2. Inside the back-end folder in the terminal, run the following:   
+1. Open the front end and back end folders in separate terminal windows.
+2. Inside the back end folder in the terminal, run the following:   
 ```
 bundle install 
 rails db:create
@@ -37,7 +37,7 @@ rails db:seed
 rails s
 ```
 
-3. Inside the front-end folder in the terminal, run the following:  
+3. Inside the front end folder in the terminal, run the following:  
 ```
 npm install  
 npm start 
